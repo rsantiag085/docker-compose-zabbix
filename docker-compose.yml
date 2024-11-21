@@ -70,11 +70,9 @@ services:
     networks:
       - zabbixnet
 
-
 volumes:
   zabbix_db:
   grafana_db:
-
 
 networks:
   zabbixnet:
