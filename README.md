@@ -4,6 +4,14 @@
 
 Este arquivo `docker-compose.yml` configura uma stack completa de monitoramento com Zabbix integrada ao Grafana. Ele inclui os seguintes serviços:
 
+## Índice
+- [Serviços](#serviços)
+- [Volumes](#volumes)
+- [Redes](#redes)
+- [Instruções de Uso](#instruções-de-uso)
+- [Resolução de Problemas](#resolução-de-problemas)
+- [Personalização](#personalização)
+
 ---
 
 ## **Serviços**
